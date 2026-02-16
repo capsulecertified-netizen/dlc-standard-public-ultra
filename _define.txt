@@ -1,0 +1,2 @@
+Capsules are like a universal outlet for digital trust.
+Instead of relying on external systems to verify a file, the verification is built into the file itself. Wherever it goes, it carries its own proof — no platform, no ledger, no consensus required.
